@@ -2,7 +2,7 @@ function showFile(pdf, embedMode) {
     /* Initialize the AdobeDC View object */
     var adobeDCView = new AdobeDC.View({
         /* Pass your registered client id */
-        clientId: "<YOUR_CLIENT_ID>"
+        clientId: "5373ff054f914b21bb60d40c3c12d222"
     });
 
     /* Pass the embed mode option here */
