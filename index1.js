@@ -31,7 +31,7 @@ document.addEventListener("adobe_dc_view_sdk.ready", function () {
         content: {
             /* Location of file where it is hosted */
             location: {
-                url: "https://gilmarmenegaz.github.io/drsmwm/pdfs/HEMOSTASIA-compactado.pdf",
+                url: "https://gilmarmenegaz.github.io/drsmwm/pdfs/my_pdf_encrypted.pdf",
                 /*
                 If the file URL requires some additional headers, then it can be passed as follows:-
                 headers: [
