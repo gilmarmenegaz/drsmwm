@@ -33,7 +33,7 @@ document.addEventListener("adobe_dc_view_sdk.ready", function () {
             location: {
                 /*url: "https://documentcloud.adobe.com/view-sdk-demo/PDFs/Bodea Brochure.pdf",
                 */
-                url: "https://gilmarmenegaz.github.io/drsmwm/index1.html/pdfs/my_pdf_encrypted.pdf",
+                url: "https://gilmarmenegaz.github.io/drsmwm/pdfs/my_pdf_encrypted.pdf",
                 /*
                 If the file URL requires some additional headers, then it can be passed as follows:-
                 headers: [
